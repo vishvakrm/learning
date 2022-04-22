@@ -1,4 +1,4 @@
 a = 1
-b = 2
-print(a+b
+b = 3
+print(a+b)
       
